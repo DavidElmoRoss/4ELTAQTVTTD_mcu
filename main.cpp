@@ -1,5 +1,5 @@
 /*
-This program must be exported to MCUXpresso and you will have to 
+For this program  you will have to 
 STEP OVER the instructions to see what colours are changed on the 
 screen as each fflush after the printf is STEPPED OVER
 */
